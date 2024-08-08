@@ -1,5 +1,5 @@
-# include <stdio.h>
-# include "calculator.h"
+#include <stdio.h>
+#include "calculator.h"
 
 void takeInput(int* number1, int* number2) {
     printf("Please enter your first number: ");
